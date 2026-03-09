@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+PUSH_LATER.md
+
+# Ignore root-level exported post images
+/*.png
